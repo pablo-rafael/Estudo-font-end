@@ -69,6 +69,7 @@ button:active {
     text-align: left;
     scrollbar-width: thin;
     scrollbar-color: gray transparent;
+    white-space: pre-wrap;
 }
 
 .code-result {
